@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "84312D94-7386-40D8-AACE-FA9980172BD1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EC1AA30-912C-46DC-A21A-B8472A2E8B3E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-in-Practice/Spotify/Core/SpotifyPlaylistView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2EC1AA30-912C-46DC-A21A-B8472A2E8B3E - 3e499c82d9d65bb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.scrollIndicators(_: SwiftUI.ScrollIndicatorVisibility, axes: SwiftUI.Axis.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt; in SwiftUI_in_Practice.SpotifyPlaylistView.body.getter : some"
+                  moduleName = "SwiftUI-in-Practice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kritchanaxt_./Desktop/SwiftUI-in-Practice/SwiftUI-in-Practice/Spotify/Core/SpotifyPlaylistView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "2EC1AA30-912C-46DC-A21A-B8472A2E8B3E - 882a4d63be35b494"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.LazyVStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.readingFrame(coordinateSpace: SwiftUI.CoordinateSpace, onChange: (__C.CGRect) -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Array&lt;SwiftUI_in_Practice.Product&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.scrollIndicators(_: SwiftUI.ScrollIndicatorVisibility, axes: SwiftUI.Axis.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt; in SwiftUI_in_Practice.SpotifyPlaylistView.body.getter : some"
+                  moduleName = "SwiftUI-in-Practice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kritchanaxt_./Desktop/SwiftUI-in-Practice/SwiftUI-in-Practice/Spotify/Core/SpotifyPlaylistView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
