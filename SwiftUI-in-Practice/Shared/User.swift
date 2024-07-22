@@ -62,7 +62,7 @@ struct User: Codable, Identifiable {
             username: "johndoe",
             password: "password",
             image: Constants.randomImage,
-            height: 180,
+            height: 180.5,
             weight: 70.5
         )
     }
