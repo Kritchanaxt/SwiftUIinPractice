@@ -8,7 +8,6 @@
 import Foundation
 
 struct Constants {
-    static let randomImage = "https://picsum.photos/200"
+    static let randomImage = " https://picsum.photos/600/600"
 }
 
-// https://picsum.photos/600/600
