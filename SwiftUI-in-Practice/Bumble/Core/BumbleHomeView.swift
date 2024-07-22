@@ -168,6 +168,7 @@ struct BumbleHomeView: View {
                 .offset(x: min(-currentSwipeOffset, 150))
                 .offset(x: -100)
                 .frame(maxWidth: .infinity, alignment: .leading)
+                .foregroundColor(.white)
             
             Circle()
                 .fill(.bumbleGray.opacity(0.4))
@@ -181,6 +182,8 @@ struct BumbleHomeView: View {
                 .offset(x: max(-currentSwipeOffset, -150))
                 .offset(x: 100)
                 .frame(maxWidth: .infinity, alignment: .trailing)
+                .foregroundColor(.white)
+
         }
         .animation(.smooth, value: currentSwipeOffset)
     }
